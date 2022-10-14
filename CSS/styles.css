@@ -238,6 +238,21 @@ body{
     .right-title::after{
         width: 40%;
     }
+    .right-title, pre{
+      
+   font-size: 12px;
+    }
+
+    .right-title, .tl-content h5,p{
+      
+        font-size: 12px;
+         }
+
+
+     .right-title, p{
+        text-align: justify;
+
+     }    
 }
 @media screen and (max-width:681px){
     .right-title::after{
